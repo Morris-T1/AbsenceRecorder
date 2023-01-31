@@ -13,7 +13,7 @@ class Division {
     let code: String
     var students: [Student] = []
     
-    init(code: String,) {
+    init(code: String) {
         self.code = code
     }
     
