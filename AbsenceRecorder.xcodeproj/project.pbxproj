@@ -95,7 +95,8 @@
 			isa = PBXGroup;
 			children = (
 				D6EC143A29898538005EE388 /* AbsenceRecorderApp.swift */,
-				D6EC143C29898538005EE388 /* ContentView.swift */,
+				D6EC1465298985A4005EE388 /* View */,
+				D6EC146429898599005EE388 /* Model */,
 				D6EC143E29898539005EE388 /* Assets.xcassets */,
 				D6EC144029898539005EE388 /* Preview Content */,
 			);
@@ -125,6 +126,21 @@
 				D6EC145729898539005EE388 /* AbsenceRecorderUITestsLaunchTests.swift */,
 			);
 			path = AbsenceRecorderUITests;
+			sourceTree = "<group>";
+		};
+		D6EC146429898599005EE388 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D6EC1465298985A4005EE388 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D6EC143C29898538005EE388 /* ContentView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
